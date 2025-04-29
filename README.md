@@ -1,7 +1,7 @@
 # deprem-dataset-280425
 # Deprem Dataseti
 
-Bu veri seti, 28.04.2025 tarihine ait Türkiye'de gerçekleşen küçük ve orta büyüklükteki depremleri içermektedir.
+Bu veri seti, 28.04.2025 tarihine saat 00.00-02.00 ye  ait Türkiye'de gerçekleşen küçük ve orta büyüklükteki depremleri içermektedir.
 
 ### Kaynak
 
