@@ -16,5 +16,4 @@ Bu veri, Boğaziçi Üniversitesi Kandilli Rasathanesi ve Deprem Araştırma Ens
 - `yer`: Depremin gerçekleştiği il/ilçe
 - `id`: Olay kimlik numarası
 
-## Lisans
-Bu veri seti MIT lisansı ile paylaşılmıştır. İsteyen herkes kullanabilir.
+
